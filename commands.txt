@@ -1,4 +1,4 @@
-| TASK                       | Commands
+|            TASK                 |      COMMANDS
 ---------------------------------------------------
 | show where am I                 | pwd
 | make a directory                | mkdir dir_name
