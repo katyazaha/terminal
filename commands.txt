@@ -1,4 +1,10 @@
-cd
+| TASK                        | Commands 
+| 1. show where am I          | pwd
+| 2. create a directory       | mkdir dir_name
+
+
+
+
 pwd
 mkdir
 ls -l
