@@ -16,7 +16,7 @@
 | move 2 files to another dir     | mv dir1/{1,2}.txt dir2
 | copy 2 files to another dir     | cp dir3/{3,4}.json dir1/dir4
 | find file with a name           | find . -name "*name*"
-| view file content               | less file.txt
+| view file content               | cat file.txt
 | show first lines of a text file | head -5 file.txt
 | show the last few lines         | tail -5 file.txt
 | show file content of a big file | less file.txt
