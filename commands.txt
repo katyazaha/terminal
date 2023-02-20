@@ -1,12 +1,23 @@
-| TASK                        | Commands 
-| 1. show where am I          | pwd
-| 2. create a directory       | mkdir dir_name
-
-
-
-
-pwd
-mkdir
-ls -l
-touch
-history
+| TASK                       | Commands
+---------------------------------------------------
+| show where am I                 | pwd
+| make a directory                | mkdir dir_name
+| change dir                      | cd dir_name
+| make 3 dir                      | mkdir {dir1,dir2,dir3}
+| change dir1                     | cd dir1
+| create 5 files(3 txt,2 js)      | touch {1,2,3}.txt {3,4}.json
+| make 3 dir                      | mkdir {dir4,dir5,dir6}
+| list                            | ls -l
+| open text file                  | vim 1.txt
+| write smth                      | i hello
+| save and exit                   | Esc + :wq or :x
+| change dir and go up            | cd ..
+-------------------------------------------------------------
+| move 2 files to another dir     | 
+| copy 2 files to another dir     |
+| find file with a name           |
+| view file content               | grep
+| show a few lines of a text file | 
+| show the last few lines         |
+| show file content of a big file |
+| show system date and time       |
