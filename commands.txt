@@ -13,11 +13,11 @@
 | save and exit                   | Esc + :wq or :x
 | change dir and go up            | cd ..
 -------------------------------------------------------------
-| move 2 files to another dir     | 
-| copy 2 files to another dir     |
-| find file with a name           |
-| view file content               | grep
-| show a few lines of a text file | 
-| show the last few lines         |
-| show file content of a big file |
-| show system date and time       |
+| move 2 files to another dir     | mv dir1/{1,2}.txt dir2
+| copy 2 files to another dir     | cp dir3/{3,4}.json dir1/dir4
+| find file with a name           | find . -name "*name*"
+| view file content               | less file.txt
+| show first lines of a text file | head -5 file.txt
+| show the last few lines         | tail -5 file.txt
+| show file content of a big file | less file.txt
+| show system date and time       | date
